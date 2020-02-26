@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/money_app_1.0.0/static/css/main.03413501.chunk.css",
-    "main.js": "/money_app_1.0.0/static/js/main.7a726d07.chunk.js",
-    "main.js.map": "/money_app_1.0.0/static/js/main.7a726d07.chunk.js.map",
-    "runtime-main.js": "/money_app_1.0.0/static/js/runtime-main.b1ab3dca.js",
-    "runtime-main.js.map": "/money_app_1.0.0/static/js/runtime-main.b1ab3dca.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/money_app_1.0.0/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.6897ac26.chunk.js": "/money_app_1.0.0/static/js/2.6897ac26.chunk.js",
-    "static/js/2.6897ac26.chunk.js.map": "/money_app_1.0.0/static/js/2.6897ac26.chunk.js.map",
-    "index.html": "/money_app_1.0.0/index.html",
-    "precache-manifest.499030e74d2604f59e59fc6ec1e4b004.js": "/money_app_1.0.0/precache-manifest.499030e74d2604f59e59fc6ec1e4b004.js",
-    "service-worker.js": "/money_app_1.0.0/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/money_app_1.0.0/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.03413501.chunk.css.map": "/money_app_1.0.0/static/css/main.03413501.chunk.css.map",
-    "static/js/2.6897ac26.chunk.js.LICENSE.txt": "/money_app_1.0.0/static/js/2.6897ac26.chunk.js.LICENSE.txt"
+    "main.css": "/money_app/static/css/main.03413501.chunk.css",
+    "main.js": "/money_app/static/js/main.05d63f11.chunk.js",
+    "main.js.map": "/money_app/static/js/main.05d63f11.chunk.js.map",
+    "runtime-main.js": "/money_app/static/js/runtime-main.3596d961.js",
+    "runtime-main.js.map": "/money_app/static/js/runtime-main.3596d961.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/money_app/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.6897ac26.chunk.js": "/money_app/static/js/2.6897ac26.chunk.js",
+    "static/js/2.6897ac26.chunk.js.map": "/money_app/static/js/2.6897ac26.chunk.js.map",
+    "index.html": "/money_app/index.html",
+    "precache-manifest.260236cf7c1e90134e2740e57238b6a6.js": "/money_app/precache-manifest.260236cf7c1e90134e2740e57238b6a6.js",
+    "service-worker.js": "/money_app/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/money_app/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.03413501.chunk.css.map": "/money_app/static/css/main.03413501.chunk.css.map",
+    "static/js/2.6897ac26.chunk.js.LICENSE.txt": "/money_app/static/js/2.6897ac26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1ab3dca.js",
+    "static/js/runtime-main.3596d961.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.6897ac26.chunk.js",
     "static/css/main.03413501.chunk.css",
-    "static/js/main.7a726d07.chunk.js"
+    "static/js/main.05d63f11.chunk.js"
   ]
 }
