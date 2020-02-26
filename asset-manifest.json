@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/borrikon/money_app/tree/master/static/css/main.03413501.chunk.css",
+    "main.js": "/borrikon/money_app/tree/master/static/js/main.524d1961.chunk.js",
+    "main.js.map": "/borrikon/money_app/tree/master/static/js/main.524d1961.chunk.js.map",
+    "runtime-main.js": "/borrikon/money_app/tree/master/static/js/runtime-main.e8111920.js",
+    "runtime-main.js.map": "/borrikon/money_app/tree/master/static/js/runtime-main.e8111920.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/borrikon/money_app/tree/master/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.6897ac26.chunk.js": "/borrikon/money_app/tree/master/static/js/2.6897ac26.chunk.js",
+    "static/js/2.6897ac26.chunk.js.map": "/borrikon/money_app/tree/master/static/js/2.6897ac26.chunk.js.map",
+    "index.html": "/borrikon/money_app/tree/master/index.html",
+    "precache-manifest.30eb7825cdbd3d43ab0835f0cb164b55.js": "/borrikon/money_app/tree/master/precache-manifest.30eb7825cdbd3d43ab0835f0cb164b55.js",
+    "service-worker.js": "/borrikon/money_app/tree/master/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/borrikon/money_app/tree/master/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.03413501.chunk.css.map": "/borrikon/money_app/tree/master/static/css/main.03413501.chunk.css.map",
+    "static/js/2.6897ac26.chunk.js.LICENSE.txt": "/borrikon/money_app/tree/master/static/js/2.6897ac26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8111920.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.6897ac26.chunk.js",
+    "static/css/main.03413501.chunk.css",
+    "static/js/main.524d1961.chunk.js"
+  ]
+}
